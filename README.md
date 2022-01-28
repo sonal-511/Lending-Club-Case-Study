@@ -58,6 +58,6 @@ Created by [sonal-511](https://github.com/sonal-511) - feel free to contact me!
 
 
 ## License
-This project is open source and available under the [GNU GENERAL PUBLIC LICENSE](./LICENCE).
+This project is open source and available under the [GNU GENERAL PUBLIC LICENSE](./LICENSE).
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
