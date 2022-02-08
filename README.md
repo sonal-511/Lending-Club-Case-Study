@@ -1,51 +1,24 @@
 # Lending Club
-<!-- TODO: Add brief description-->
-> Outline a brief description of your project.
+> Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender  when the borrower refusesto pay or runs away with the money owed.  <br>The main objective is to be able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.   <br> Perform an analysis to understand the driving factors (or driver variables) behind loan default, i.e.the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
 
 <!-- TODO: Update Table of Contents as progress-->
 ## Table of Contents
-* [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 
-<!-- TODO: Update General information as progress-->
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-<!-- TODO: Update Conclusions at end of analysis-->
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+> Loan ammount, anuual income, intrest rate, grade, public bankcrupties are major contributing factor for loan default
 
 ## Technologies Used
-- numpy - **1.20.3**
-- pandas - **1.3.5**
-- matplotlib - **3.5**
-- seaborn - **0.11.2**
-- IPython - **7.29.0**
-- ipykernel - **6.4.1**
-- ipywidgets - **7.6.5**
-- jupyter_client - **6.1.12**
-- jupyter_core - **4.9.1**
-- jupyter_server - **1.4.1**
-- jupyterlab - **3.2.1**
-- nbclient - **0.5.3**
-- nbconvert - **6.3.0**
-- nbformat - **5.1.3**
-- notebook - **6.4.6**
-- qtconsole - **5.1.1**
-- traitlets - **5.1.1**
+- Python
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- plotly
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
